@@ -45,7 +45,11 @@ img {
 
 }
 
-img#git {
+#git {
   width: 50%;
+  
+}
 
+.textovermelho {
+  color: red;
 }
